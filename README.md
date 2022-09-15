@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-- 💻 &nbsp; Java | C++ | C | MySQL
+- 💻 &nbsp; Java | 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
