@@ -21,7 +21,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying computer science and systems engineering at national agrarian university of the jungle.
+- 🎓 &nbsp; Studying computer science and systems engineering at UNAS.
 
 - 🌱 &nbsp; learning about complex algorithms.
 
