@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="[https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram](https://www.instagram.com/igor_ramosc/?hl=en)"></a>
+<a href="https://www.instagram.com/igor_ramosc/"><img alt="Instagram" src="[https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram](https://www.instagram.com/igor_ramosc/?hl=en)"></a>
 
 <a href="mailto:igor.ramos.cruzado.@gamail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igor.ramos.cruzado.w@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
