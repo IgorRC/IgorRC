@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![me]https://camo.githubusercontent.com/70263c74dd0fc9f81bc5f6b08be07ac534a74637dac7403603e117e209bca3bd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4665726e616e646f526f6c64616e39332673686f775f69636f6e733d7472756526686964655f626f726465723d74727565
+![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true)
