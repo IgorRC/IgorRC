@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/IgorRC)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorRC&show_icons=true)](https://github.com/IgorRC)
 
 <br/>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRC&show_icons=true)
 
 <br><br>
 
