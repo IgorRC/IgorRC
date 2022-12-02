@@ -50,14 +50,6 @@
 
 <hr>
 
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorRC&show_icons=true)](https://github.com/IgorRC)
-
-<br/>
-
 <br/>
 
 
@@ -67,28 +59,7 @@
 <br><br>
 
 
-
 <hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/igor-ramos-177116246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/igor_ramosc/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:igor.ramos.cruzado.@gamail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igor.ramos.cruzado.w@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
 
 
 
