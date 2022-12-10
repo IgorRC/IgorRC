@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<hr>
 <!--
 **IgorRC/IgorRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,11 +28,7 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-
-
 <h3>🛠 Tech Stack</h3>
-
-
 
 - 💻 &nbsp; Java 
 
