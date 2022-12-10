@@ -50,7 +50,3 @@
 <hr>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRC&show_icons=true)
-
-<br><br>
-
