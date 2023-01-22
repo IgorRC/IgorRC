@@ -31,7 +31,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java 
+- 💻 &nbsp; Java | Spring Boot
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
