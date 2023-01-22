@@ -31,10 +31,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring Boot
+- 💻 &nbsp; Java | Mysql | Spring Boot
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
+- ☁  &nbsp; Google Cloud 
 <!--
 
 - 🛢 &nbsp; MySQL 
