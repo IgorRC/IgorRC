@@ -31,9 +31,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Golang | 
+- 💻 &nbsp; Java | Golang | C++
 
-- 🗄️ &nbsp; Mysql | Postgrest
+- 🗄️ &nbsp; MySQL | PostgreSQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
