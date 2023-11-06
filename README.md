@@ -33,11 +33,11 @@
 
 - 💻 &nbsp; Java | Go | C++
 
-- 🗄️ &nbsp; MySQL | PostgreSQL
+- 🗄️ &nbsp; MySQL | PostgreSQL | MongoDB 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
-- ☁  &nbsp; Google Cloud | AWS
+- ☁  &nbsp; Google Cloud | AWS | DigitalOcean 
 <!--
 
 - 🛢 &nbsp; MySQL 
