@@ -28,6 +28,7 @@
 - 🌱 &nbsp; learning about complex algorithms.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🏬 &nbsp; founder of gnius code
 
 <h3>🛠 Tech Stack</h3>
 
