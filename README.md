@@ -32,13 +32,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Go | C++
+- 💻 &nbsp; Java | C++
 
 - 🗄️ &nbsp; MySQL | PostgreSQL | MongoDB 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
-- ☁  &nbsp; Google Cloud | AWS | DigitalOcean 
+- ☁  &nbsp; Google Cloud | AWS  
 <!--
 
 - 🛢 &nbsp; MySQL 
